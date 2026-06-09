@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lexus Motors Showroom</title>
+</head>
+
+<body>
+
+<header>
+    <h1>Lexus Motors Showroom</h1>
+    <p>Your trusted source for luxury Lexus vehicles and premium driving experience.</p>
+
+    <!-- ✅ WORKING NAVIGATION BAR -->
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#purpose">About</a></li>
+            <li><a href="#products">Vehicles</a></li>
+            <li><a href="#gallery">Gallery</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<hr>
+
+<!-- HOME -->
+<section id="home">
+    <h2>Welcome to Lexus Motors Showroom</h2>
+    <p>
+        Explore luxury Lexus vehicles designed for comfort, performance, and innovation.
+    </p>
+</section>
+
+<hr>
+
+<!-- ABOUT / PURPOSE -->
+<section id="purpose">
+    <h2>About Lexus Motors</h2>
+    <p>
+        This website showcases Lexus models, specifications, and helps customers explore premium vehicles easily.
+    </p>
+</section>
+
+<hr>
+
+<!-- PRODUCTS -->
+<section id="products">
+    <h2>Featured Lexus Models</h2>
+
+    <article>
+        <h3>Lexus RX</h3>
+        <p>Luxury SUV with powerful performance and comfort.</p>
+    </article>
+
+    <article>
+        <h3>Lexus ES</h3>
+        <p>Elegant sedan with smooth driving experience.</p>
+    </article>
+
+    <article>
+        <h3>Lexus LX</h3>
+        <p>High-end SUV built for luxury and off-road strength.</p>
+    </article>
+</section>
+
+<hr>
+
+<!-- GALLERY -->
+<section id="gallery">
+    <h2>Lexus Gallery</h2>
+
+    <img src="https://images.unsplash.com/photo-1619767886558-efdc259cde1a?w=300" width="300">
+    <img src="https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=300" width="300">
+    <img src="https://images.unsplash.com/photo-1542362567-b07e54358753?w=300" width="300">
+</section>
+
+<hr>
+
+<!-- VEHICLE TABLE -->
+<section id="table">
+    <h2>Lexus Price List</h2>
+
+    <table border="1">
+        <tr>
+            <th>Model</th>
+            <th>Category</th>
+            <th>Price (KES)</th>
+            <th>Status</th>
+        </tr>
+
+        <tr>
+            <td>Lexus RX 350</td>
+            <td>SUV</td>
+            <td>8,500,000</td>
+            <td>Available</td>
+        </tr>
+
+        <tr>
+            <td>Lexus ES 300h</td>
+            <td>Sedan</td>
+            <td>6,200,000</td>
+            <td>Available</td>
+        </tr>
+
+        <tr>
+            <td>Lexus LX 600</td>
+            <td>Luxury SUV</td>
+            <td>15,000,000</td>
+            <td>Limited</td>
+        </tr>
+    </table>
+</section>
+
+<hr>
+
+<!-- MEDIA -->
+<section id="media">
+    <h2>Lexus Experience</h2>
+
+    <h3>Music</h3>
+    <audio controls>
+        <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" type="audio/mpeg">
+    </audio>
+
+    <h3>Video</h3>
+    <video width="500" controls>
+        <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+    </video>
+</section>
+
+<hr>
+
+<!-- CONTACT -->
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: info@lexusshowroom.com</p>
+    <p>Phone: +254 700 987 654</p>
+    <p>Location: Nairobi, Kenya</p>
+</section>
+
+<hr>
+
+<footer>
+    <p>&copy; 2026 Lexus Motors Showroom. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
